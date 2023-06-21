@@ -2,5 +2,10 @@
  { 
  "isim" :"Efes Antik Kenti",
  "aciklama":"Efes, Anadolu'nun batı kıyısında, bugünkü İzmir ilinin Selçuk ilçesinin üç kilometre güneybatısında yer alan antik bir Luvi şehriydi. ",
- "fotourl":""
-};
+ "fotourl":"https://github.com/13140112yg/GithubOdev/blob/4df03ca3c01ac06687df00bbf73ddc2ba6400079/EEfess.jfif"
+},
+  { 
+ "isim" :"Saat Kulesi",
+ "aciklama":"Saat kulesi, bir kule ya da bir yapının üzerinde yükselen kulevari çıkıntı üzerine saat kadranı eklenmesiyle oluşan ikonik yapı.  ",
+ "fotourl":"https://github.com/13140112yg/GithubOdev/blob/4df03ca3c01ac06687df00bbf73ddc2ba6400079/EEfess.jfif"
+},
