@@ -7,5 +7,9 @@
   { 
  "isim" :"Saat Kulesi",
  "aciklama":"Saat kulesi, bir kule ya da bir yapının üzerinde yükselen kulevari çıkıntı üzerine saat kadranı eklenmesiyle oluşan ikonik yapı.  ",
- "fotourl":"https://github.com/13140112yg/GithubOdev/blob/4df03ca3c01ac06687df00bbf73ddc2ba6400079/EEfess.jfif"
+ "fotourl":"https://github.com/13140112yg/GithubOdev/blob/master/saatkulesi.jpg"
 },
+  { 
+ "isim" :"Tarihi Asansör",
+ "aciklama":"Tarihî Asansör, İzmir'de bulunan tarihsel bir yapıdır. Turgut Reis Mahallesi'nde, biri diğerinden 58 m yüksekte olan Mithatpaşa Caddesi ile, Şehit Nihatbey Caddesi'nin arasında işleyen iki asansörü barındıran asansör kulesidir. ",
+ "fotourl":"https://github.com/13140112yg/GithubOdev/blob/master/saatkulesi.jpg"},
